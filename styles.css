@@ -1,0 +1,154 @@
+/*Diseño Rama Main*/
+body {
+    background-color: white;
+    color: #242424;
+}
+
+.btn-primary {
+    background-color: #f5a926;
+    border-color: #f5a926;
+}
+
+.btn-secondary {
+    background-color: #242424;
+    border-color: #242424;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #242424;
+}
+
+.footer {
+    background-color: #242424;
+    color: white;
+}
+
+.footer a {
+    color: #f5a926;
+}
+
+body {
+    background-color: white;
+    color: #242424;
+}
+
+.btn-primary {
+    background-color: #f5a926;
+    border-color: #f5a926;
+}
+
+.btn-secondary {
+    background-color: #242424;
+    border-color: #242424;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #242424;
+}
+
+.footer {
+    background-color: #242424;
+    color: white;
+}
+
+.footer a {
+    color: #f5a926;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.bg-light {
+    background-color: #f7f7f7 !important;
+}
+
+.bg-dark {
+    background-color: #242424 !important;
+}
+
+body {
+    background-color: white;
+    color: #242424;
+}
+
+.bg-light {
+    background-color: #f7f7f7 !important;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/*Diseño Rama Main*/
+body {
+    background-color: white;
+    color: #242424;
+}
+
+.btn-primary {
+    background-color: #f5a926;
+    border-color: #f5a926;
+}
+
+.btn-secondary {
+    background-color: #242424;
+    border-color: #242424;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #242424;
+}
+
+.footer {
+    background-color: #242424;
+    color: white;
+}
+
+.footer a {
+    color: #f5a926;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.bg-light {
+    background-color: #f7f7f7 !important;
+}
+
+.bg-dark {
+    background-color: #242424 !important;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.d-flex.flex-column.position-fixed.top-0.start-0.p-3 {
+    z-index: 1000;
+}
+
+.cuidado-img {
+    max-width: 100%;
+    height: auto;
+    max-height: 200px; /* Ajusta la altura máxima de las imágenes */
+    object-fit: contain; /* Mantiene la proporción de la imagen dentro del contenedor */
+}
